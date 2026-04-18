@@ -4,3 +4,5 @@ def fibonnaci(n):
         n -= 1
         fib = fib*n
     return fib
+
+print(fibonnaci(5))
